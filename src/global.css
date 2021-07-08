@@ -1,14 +1,16 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    color: rgb(255, 255, 255);
-    background: linear-gradient(329.54deg, #ffff 0%, #ffff 100%);
+body {
+  background: linear-gradient(329.54deg, #ffff 0%, #ffff 100%);
 }
 
-body, input, button, textarea{
-    font: 600 18px Nunito, sans-serif;
+body,
+input,
+button,
+textarea {
+  font: 600 18px Nunito, sans-serif;
 }
