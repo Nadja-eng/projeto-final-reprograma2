@@ -1,6 +1,17 @@
 .footer{
     display: flex;
-    justify-content:space-between;
-    padding-inline: 50px;
-    
+    justify-items: center;
+    width: fit-content;
+    align-items: center;
+    color: #EC9B69;
+    left: 50%;
+    margin-left: -50px;
+    bottom: 5px;
+    position: absolute;
+    bottom: -25px !important;
    }
+
+.socialMedia{
+    height: 1em;
+    top: 3px;
+}

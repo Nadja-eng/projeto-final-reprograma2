@@ -1,7 +1,34 @@
-.main{
+.name{
     display: flex;
-    justify-content: between;
-    align-items: center;
-    flex-direction: column;
-    width: 100%;
+    color: #EC9B69;
+
+   
+}
+
+.description {
+    display: flex;
+    color: #b3a7a1;
+    width: 50%;
+    font-size: 8px;
+ 
+}
+
+.container_card {
+   display: flex;
+   width: 100%;
+   padding:4rem;
+   justify-content: space-between;
+   
+}
+.container_card div {
+    width: 30%;
+}  
+
+.card_img {
+   height: 50%;
+   width: 140px;
+}
+
+.footer {
+    bottom: -25px !important;
 }

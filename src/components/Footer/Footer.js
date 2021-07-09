@@ -11,11 +11,11 @@ const Footer = () => {
         <div className="footer">
             <p>Luana Eloy</p>
             <div class="lista-link">
-                <a className="link" href="https://www.linkedin.com/in/luana-eloy" target="blank"><img src={Linkedin} alt="icon linkedin" />
+                <a className="link" href="https://www.linkedin.com/in/luana-eloy" target="blank"><img class= "socialMedia" src={Linkedin} alt="icon linkedin" />
                 </a>
-                <a className="link" href="https://www.behance.net/luana-eloy" target="blank"><img src={Behance} alt="icon behance" />
+                <a className="link" href="https://www.behance.net/luana-eloy" target="blank"><img class= "socialMedia" src={Behance} alt="icon behance" />
                 </a>
-                <a className="link" href="https://luanaeloy01.medium.com/" target="blank"><img src={Medium} alt="icon medium" />
+                <a className="link" href="https://luanaeloy01.medium.com/" target="blank"><img class= "socialMedia" src={Medium} alt="icon medium" />
                 </a>
             </div>
 

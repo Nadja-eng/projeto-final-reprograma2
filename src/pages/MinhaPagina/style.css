@@ -1,0 +1,49 @@
+.busca {
+    display: inline;
+    color: #BA63FF;
+    text-indent: 30%;
+    
+}
+
+.fotoPessoal {
+    display: block;
+    margin-left: 15%;
+    width: 150px;
+    height: 150px;
+   
+}
+
+.nome__luana {
+    color: #EC9B69;
+    margin-left: 9%;
+    font-size: 15px;
+    text-indent: 27%; 
+}
+
+.descricao-front {
+    color: #8d8783; 
+    font-size: 7px; 
+    text-indent: 29%;
+}
+
+p.list{
+    text-indent: 41%;
+    font-size:15px;
+}
+
+.busca__repo {
+    margin-left: 70%;
+    
+}
+
+.container {
+    margin: auto;
+    width: 20%;
+    background-color: #f8f8f8;
+    height: 100%;
+}
+
+.footer {
+    bottom: -25px !important;
+    
+}
